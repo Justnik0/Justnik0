@@ -23,8 +23,6 @@ I'm a 20-year-old developer based in South Tangerang. I'm highly passionate abou
   - Corporate website development for **Hongsung Print Indonesia**.
 - 🌱 **I’m currently learning:** **Cloud Computing** and actively exploring the absolute latest technologies and trends in the tech ecosystem.
 - 🤝 **I’m looking to collaborate on:** Innovative projects, startup MVPs, or open-source projects based on React Native / Next.js.
-- 💬 **Ask me about:** Frontend, Mobile App Development, Backend-as-a-Service, UI/UX Design, or Python for Data Science.
-- ⚡ **Fun fact:** When I'm not coding or designing, I'm usually geeking out over cars and sneaker culture.
 
 ---
 
