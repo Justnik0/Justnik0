@@ -46,14 +46,3 @@ Seorang developer berusia 20 tahun yang berdomisili di Tangerang Selatan. Saya s
 
 ### 🛠️ Tools & Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Justnik0&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justnik0&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117" height="150" alt="Top Languages" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Justnik0&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
