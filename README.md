@@ -10,20 +10,21 @@
 <div align="center">
   <a href="mailto:gonzaganicholas06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/nicholas-aloysius-gonzaga/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://discord.gg/gendreuwolol"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://instagram.com/nikooy._"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
 </div>
 
 ---
 
 ## 💫 About Me
-Seorang developer berusia 20 tahun yang berdomisili di Tangerang Selatan. Saya sangat antusias dalam merancang arsitektur aplikasi yang bersih, mengembangkan solusi digital end-to-end, dan merancang antarmuka (UI/UX) yang intuitif. Saat ini saya terbuka untuk **pekerjaan full-time** maupun kolaborasi **freelance**.
+I'm a 20-year-old developer based in South Tangerang. I'm highly passionate about designing clean application architectures, developing end-to-end digital solutions, and crafting intuitive UI/UX designs. Currently, I am open to **full-time opportunities** and **freelance collaborations**.
 
-- 🔭 **I’m currently working on:** - Aplikasi presensi karyawan terintegrasi (Mobile) menggunakan **Expo** & **Supabase**.
-  - Corporate website development untuk **Hongsung Print Indonesia**.
-- 🌱 **I’m currently learning:** Eksplorasi lebih dalam tentang arsitektur Next.js, 3D modeling/design, dan implementasi Machine Learning ke dalam aplikasi web/mobile.
-- 🤝 **I’m looking to collaborate on:** Proyek inovatif, pembuatan MVP untuk startup, atau proyek open-source berbasis React Native / Next.js.
-- 💬 **Ask me about:** Frontend, Mobile App Development, Backend-as-a-Service, UI/UX Design, atau Python untuk Data Science.
-- ⚡ **Fun fact:** Selain asyik *coding* dan mendesain, saya punya minat khusus pada dunia otomotif dan kultur *sneakers*.
+- 🔭 **I’m currently working on:** - An integrated employee attendance mobile app using **Expo** & **Supabase**.
+  - Corporate website development for **Hongsung Print Indonesia**.
+- 🌱 **I’m currently learning:** **Cloud Computing** and actively exploring the absolute latest technologies and trends in the tech ecosystem.
+- 🤝 **I’m looking to collaborate on:** Innovative projects, startup MVPs, or open-source projects based on React Native / Next.js.
+- 💬 **Ask me about:** Frontend, Mobile App Development, Backend-as-a-Service, UI/UX Design, or Python for Data Science.
+- ⚡ **Fun fact:** When I'm not coding or designing, I'm usually geeking out over cars and sneaker culture.
 
 ---
 
