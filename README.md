@@ -1,10 +1,4 @@
-<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=3ECF8E&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Nicholas!+👋;Web+%26+Mobile+App+Developer;Data+Science+%26+ML+Enthusiast;Creative+%26+UI/UX+Designer;Open+for+Freelance+%26+Full-time)](https://git.io/typing-svg)
-
-*Transforming ideas into clean, efficient, and scalable digital solutions.*
-
-</div>
 
 ## 🌐 Connect with me:
 <div align="center">
