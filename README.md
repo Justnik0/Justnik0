@@ -10,14 +10,6 @@
 
 ---
 
-## 💫 About Me
-I'm a 20-year-old developer based in South Tangerang. I'm highly passionate about designing clean application architectures, developing end-to-end digital solutions, and crafting intuitive UI/UX designs. Currently, I am open to **full-time opportunities** and **freelance collaborations**.
-
-- 🔭 **I’m currently working on:** - An integrated employee attendance mobile app using **Expo** & **Supabase**.
-  - Corporate website development for **Hongsung Print Indonesia**.
-- 🌱 **I’m currently learning:** **Cloud Computing** and actively exploring the absolute latest technologies and trends in the tech ecosystem.
-- 🤝 **I’m looking to collaborate on:** Innovative projects, startup MVPs, or open-source projects based on React Native / Next.js.
-
 ---
 
 ## 💻 Tech Stack & Tools
